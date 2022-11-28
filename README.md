@@ -2,6 +2,8 @@
 
 This is a repository analyzing greenhouse gas emissions data catalogued since 1990 until 2021. The data comes from New York State, and it has been used to inform public policy decisions in New York.
 
+This repository was commisioned as part of Professor Gotzler's English-105 class in the Fall of 2022 at the University of North Carolina at Chapel Hill. Many thanks and much credit to Professor Gotzler and the resources at UNC for facilitating this research project.
+
 The repository contains a python script which was used to generate a filtered version of the original data, focusing on the transportation sector. The repo also comes along with the original data in a csv along with the filtered data in csv format.
 
 
